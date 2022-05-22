@@ -17,8 +17,6 @@
 ## 비쥬얼 스튜디오 단축키
 
 - Ctrl + K + c : 주석 처리
-## version3
+## version4
 - version3 커밋
-
-## version2
-- version2 커밋
+- 병합하기 연습
